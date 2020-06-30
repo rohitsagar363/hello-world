@@ -1,2 +1,3 @@
 # hello-world
-Hi,Guys!,here I'll update about me to the world.
+Hi,Guys!
+  Created this Repo to store ideas, resources and share these things with you all.
